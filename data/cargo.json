@@ -1,0 +1,182 @@
+[
+  {
+    "box": "BX00",
+    "vessel": "V0",
+    "appointment": "T0",
+    "day": "2026-06-01",
+    "kind": "冷藏",
+    "cutoff": 960,
+    "district": "外港"
+  },
+  {
+    "box": "BX01",
+    "vessel": "V0",
+    "appointment": "T0",
+    "day": "2026-06-01",
+    "kind": "普通",
+    "cutoff": 940,
+    "district": "东区"
+  },
+  {
+    "box": "BX02",
+    "vessel": "V0",
+    "appointment": "T1",
+    "day": "2026-06-01",
+    "kind": "普通",
+    "cutoff": 920,
+    "district": "东区"
+  },
+  {
+    "box": "BX03",
+    "vessel": "V0",
+    "appointment": "T1",
+    "day": "2026-06-01",
+    "kind": "普通",
+    "cutoff": 900,
+    "district": "外港"
+  },
+  {
+    "box": "BX04",
+    "vessel": "V1",
+    "appointment": "T2",
+    "day": "2026-06-02",
+    "kind": "普通",
+    "cutoff": 960,
+    "district": "东区"
+  },
+  {
+    "box": "BX05",
+    "vessel": "V1",
+    "appointment": "T2",
+    "day": "2026-06-02",
+    "kind": "冷藏",
+    "cutoff": 940,
+    "district": "东区"
+  },
+  {
+    "box": "BX06",
+    "vessel": "V1",
+    "appointment": "T3",
+    "day": "2026-06-02",
+    "kind": "普通",
+    "cutoff": 920,
+    "district": "外港"
+  },
+  {
+    "box": "BX07",
+    "vessel": "V1",
+    "appointment": "T3",
+    "day": "2026-06-02",
+    "kind": "普通",
+    "cutoff": 900,
+    "district": "东区"
+  },
+  {
+    "box": "BX08",
+    "vessel": "V2",
+    "appointment": "T4",
+    "day": "2026-06-03",
+    "kind": "普通",
+    "cutoff": 960,
+    "district": "东区"
+  },
+  {
+    "box": "BX09",
+    "vessel": "V2",
+    "appointment": "T4",
+    "day": "2026-06-03",
+    "kind": "普通",
+    "cutoff": 940,
+    "district": "外港"
+  },
+  {
+    "box": "BX10",
+    "vessel": "V2",
+    "appointment": "T5",
+    "day": "2026-06-03",
+    "kind": "冷藏",
+    "cutoff": 920,
+    "district": "东区"
+  },
+  {
+    "box": "BX11",
+    "vessel": "V2",
+    "appointment": "T5",
+    "day": "2026-06-03",
+    "kind": "普通",
+    "cutoff": 900,
+    "district": "东区"
+  },
+  {
+    "box": "BX12",
+    "vessel": "V3",
+    "appointment": "T6",
+    "day": "2026-06-04",
+    "kind": "普通",
+    "cutoff": 960,
+    "district": "外港"
+  },
+  {
+    "box": "BX13",
+    "vessel": "V3",
+    "appointment": "T6",
+    "day": "2026-06-04",
+    "kind": "普通",
+    "cutoff": 940,
+    "district": "东区"
+  },
+  {
+    "box": "BX14",
+    "vessel": "V3",
+    "appointment": "T7",
+    "day": "2026-06-04",
+    "kind": "普通",
+    "cutoff": 920,
+    "district": "东区"
+  },
+  {
+    "box": "BX15",
+    "vessel": "V3",
+    "appointment": "T7",
+    "day": "2026-06-04",
+    "kind": "冷藏",
+    "cutoff": 900,
+    "district": "外港"
+  },
+  {
+    "box": "BX16",
+    "vessel": "V4",
+    "appointment": "T8",
+    "day": "2026-06-05",
+    "kind": "普通",
+    "cutoff": 960,
+    "district": "东区"
+  },
+  {
+    "box": "BX17",
+    "vessel": "V4",
+    "appointment": "T8",
+    "day": "2026-06-05",
+    "kind": "普通",
+    "cutoff": 940,
+    "district": "东区"
+  },
+  {
+    "box": "BX18",
+    "vessel": "V4",
+    "appointment": "T9",
+    "day": "2026-06-05",
+    "kind": "普通",
+    "cutoff": 920,
+    "district": "外港"
+  },
+  {
+    "box": "BX19",
+    "vessel": "V4",
+    "appointment": "T9",
+    "day": "2026-06-05",
+    "kind": "普通",
+    "cutoff": 900,
+    "district": "东区"
+  }
+]

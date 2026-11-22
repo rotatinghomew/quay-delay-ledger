@@ -1,0 +1,182 @@
+[
+  {
+    "vessel": "V0",
+    "facility": "船口",
+    "scope": "装卸位",
+    "day": "2026-06-01",
+    "open": 440,
+    "close": 930,
+    "units": 3
+  },
+  {
+    "vessel": "V0",
+    "facility": "专线",
+    "scope": "冷藏位",
+    "day": "2026-06-01",
+    "open": 440,
+    "close": 930,
+    "units": 1
+  },
+  {
+    "vessel": "V0",
+    "facility": "公用",
+    "scope": "装卸位",
+    "day": "2026-06-01",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V0",
+    "facility": "全港",
+    "scope": "短驳班",
+    "day": "2026-06-01",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V1",
+    "facility": "船口",
+    "scope": "装卸位",
+    "day": "2026-06-02",
+    "open": 440,
+    "close": 930,
+    "units": 3
+  },
+  {
+    "vessel": "V1",
+    "facility": "专线",
+    "scope": "冷藏位",
+    "day": "2026-06-02",
+    "open": 440,
+    "close": 930,
+    "units": 1
+  },
+  {
+    "vessel": "V1",
+    "facility": "公用",
+    "scope": "装卸位",
+    "day": "2026-06-02",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V1",
+    "facility": "全港",
+    "scope": "短驳班",
+    "day": "2026-06-02",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V2",
+    "facility": "船口",
+    "scope": "装卸位",
+    "day": "2026-06-03",
+    "open": 440,
+    "close": 930,
+    "units": 3
+  },
+  {
+    "vessel": "V2",
+    "facility": "专线",
+    "scope": "冷藏位",
+    "day": "2026-06-03",
+    "open": 440,
+    "close": 930,
+    "units": 1
+  },
+  {
+    "vessel": "V2",
+    "facility": "公用",
+    "scope": "装卸位",
+    "day": "2026-06-03",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V2",
+    "facility": "全港",
+    "scope": "短驳班",
+    "day": "2026-06-03",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V3",
+    "facility": "船口",
+    "scope": "装卸位",
+    "day": "2026-06-04",
+    "open": 440,
+    "close": 930,
+    "units": 3
+  },
+  {
+    "vessel": "V3",
+    "facility": "专线",
+    "scope": "冷藏位",
+    "day": "2026-06-04",
+    "open": 440,
+    "close": 930,
+    "units": 1
+  },
+  {
+    "vessel": "V3",
+    "facility": "公用",
+    "scope": "装卸位",
+    "day": "2026-06-04",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V3",
+    "facility": "全港",
+    "scope": "短驳班",
+    "day": "2026-06-04",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V4",
+    "facility": "船口",
+    "scope": "装卸位",
+    "day": "2026-06-05",
+    "open": 440,
+    "close": 930,
+    "units": 3
+  },
+  {
+    "vessel": "V4",
+    "facility": "专线",
+    "scope": "冷藏位",
+    "day": "2026-06-05",
+    "open": 440,
+    "close": 930,
+    "units": 1
+  },
+  {
+    "vessel": "V4",
+    "facility": "公用",
+    "scope": "装卸位",
+    "day": "2026-06-05",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  },
+  {
+    "vessel": "V4",
+    "facility": "全港",
+    "scope": "短驳班",
+    "day": "2026-06-05",
+    "open": 440,
+    "close": 930,
+    "units": 2
+  }
+]

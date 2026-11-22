@@ -1,0 +1,29 @@
+[
+  {
+    "acceptance": "a1",
+    "contract": "Q1",
+    "box": "BX03",
+    "remedy": "m2",
+    "amount": 250,
+    "state": "已确认",
+    "day": "2026-06-02"
+  },
+  {
+    "acceptance": "a2",
+    "contract": "Q3",
+    "box": "BX04",
+    "remedy": "m3",
+    "amount": 210,
+    "state": "待调整",
+    "day": "2026-06-03"
+  },
+  {
+    "acceptance": "a3",
+    "contract": "Q2",
+    "box": "BX08",
+    "remedy": "m4",
+    "amount": 350,
+    "state": "已确认",
+    "day": "2026-06-04"
+  }
+]

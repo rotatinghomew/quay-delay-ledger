@@ -1,0 +1,32 @@
+[
+  {
+    "contract": "Q1",
+    "party": "末端接驳",
+    "facility": "全港",
+    "rate": 12,
+    "reserved": 700,
+    "count_from": "放行",
+    "count_to": "交付",
+    "free": 40
+  },
+  {
+    "contract": "Q2",
+    "party": "码头",
+    "facility": "船口",
+    "rate": 16,
+    "reserved": 900,
+    "count_from": "船侧交接",
+    "count_to": "短驳接手",
+    "free": 72
+  },
+  {
+    "contract": "Q3",
+    "party": "堆场",
+    "facility": "公用",
+    "rate": 9,
+    "reserved": 510,
+    "count_from": "船侧交接",
+    "count_to": "交付",
+    "free": 110
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "box": "BX00",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-01",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX00",
+    "kind": "堆场复核",
+    "facility": "专线",
+    "day": "2026-06-01",
+    "open": 492,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX00",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-01",
+    "open": 545,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX01",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-01",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX01",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-01",
+    "open": 504,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX01",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-01",
+    "open": 552,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX02",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-01",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX02",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-01",
+    "open": 516,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX02",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-01",
+    "open": 559,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX03",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-01",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX03",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-01",
+    "open": 528,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX03",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-01",
+    "open": 566,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX04",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-02",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX04",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-02",
+    "open": 492,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX04",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-02",
+    "open": 545,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX05",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-02",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX05",
+    "kind": "堆场复核",
+    "facility": "专线",
+    "day": "2026-06-02",
+    "open": 504,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX05",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-02",
+    "open": 552,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX06",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-02",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX06",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-02",
+    "open": 516,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX06",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-02",
+    "open": 559,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX07",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-02",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX07",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-02",
+    "open": 528,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX07",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-02",
+    "open": 566,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX08",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-03",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX08",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-03",
+    "open": 492,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX08",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-03",
+    "open": 545,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX09",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-03",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX09",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-03",
+    "open": 504,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX09",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-03",
+    "open": 552,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX10",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-03",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX10",
+    "kind": "堆场复核",
+    "facility": "专线",
+    "day": "2026-06-03",
+    "open": 516,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX10",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-03",
+    "open": 559,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX11",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-03",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX11",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-03",
+    "open": 528,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX11",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-03",
+    "open": 566,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX12",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-04",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX12",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-04",
+    "open": 492,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX12",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-04",
+    "open": 545,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX13",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-04",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX13",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-04",
+    "open": 504,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX13",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-04",
+    "open": 552,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX14",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-04",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX14",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-04",
+    "open": 516,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX14",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-04",
+    "open": 559,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX15",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-04",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX15",
+    "kind": "堆场复核",
+    "facility": "专线",
+    "day": "2026-06-04",
+    "open": 528,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX15",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-04",
+    "open": 566,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX16",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-05",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX16",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-05",
+    "open": 492,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX16",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-05",
+    "open": 545,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX17",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-05",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX17",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-05",
+    "open": 504,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX17",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-05",
+    "open": 552,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX18",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-05",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX18",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-05",
+    "open": 516,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX18",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-05",
+    "open": 559,
+    "close": 850,
+    "service": 32
+  },
+  {
+    "box": "BX19",
+    "kind": "开放泊位",
+    "facility": "船口",
+    "day": "2026-06-05",
+    "open": 430,
+    "close": 625,
+    "service": 15
+  },
+  {
+    "box": "BX19",
+    "kind": "堆场复核",
+    "facility": "公用",
+    "day": "2026-06-05",
+    "open": 528,
+    "close": 775,
+    "service": 26
+  },
+  {
+    "box": "BX19",
+    "kind": "短驳班组",
+    "facility": "全港",
+    "day": "2026-06-05",
+    "open": 566,
+    "close": 850,
+    "service": 32
+  }
+]

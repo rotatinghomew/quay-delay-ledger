@@ -1,0 +1,37 @@
+[
+  {
+    "remedy": "m1",
+    "facility": "公用",
+    "box": "BX03",
+    "gain": 50,
+    "cost": 200
+  },
+  {
+    "remedy": "m2",
+    "facility": "全港",
+    "box": "BX03",
+    "gain": 55,
+    "cost": 250
+  },
+  {
+    "remedy": "m3",
+    "facility": "公用",
+    "box": "BX04",
+    "gain": 28,
+    "cost": 325
+  },
+  {
+    "remedy": "m4",
+    "facility": "船口",
+    "box": "BX08",
+    "gain": 45,
+    "cost": 350
+  },
+  {
+    "remedy": "m5",
+    "facility": "专线",
+    "box": "BX05",
+    "gain": 35,
+    "cost": 300
+  }
+]

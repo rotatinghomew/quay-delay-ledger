@@ -1,0 +1,112 @@
+{
+  "fields": {
+    "cargo": [
+      "box",
+      "vessel",
+      "appointment",
+      "day",
+      "kind",
+      "cutoff",
+      "district"
+    ],
+    "events": [
+      "event",
+      "box",
+      "kind",
+      "day",
+      "lo",
+      "hi",
+      "available",
+      "revision",
+      "vehicle"
+    ],
+    "barriers": [
+      "box",
+      "kind",
+      "facility",
+      "day",
+      "open",
+      "close",
+      "service"
+    ],
+    "capacity": [
+      "vessel",
+      "facility",
+      "scope",
+      "day",
+      "open",
+      "close",
+      "units"
+    ],
+    "terms": [
+      "contract",
+      "party",
+      "facility",
+      "rate",
+      "reserved",
+      "count_from",
+      "count_to",
+      "free"
+    ],
+    "remedies": [
+      "remedy",
+      "facility",
+      "box",
+      "gain",
+      "cost"
+    ],
+    "acceptances": [
+      "acceptance",
+      "contract",
+      "box",
+      "remedy",
+      "amount",
+      "state",
+      "day"
+    ]
+  },
+  "references": [
+    [
+      "events",
+      "box",
+      "cargo",
+      "box"
+    ],
+    [
+      "barriers",
+      "box",
+      "cargo",
+      "box"
+    ],
+    [
+      "capacity",
+      "vessel",
+      "cargo",
+      "vessel"
+    ],
+    [
+      "remedies",
+      "box",
+      "cargo",
+      "box"
+    ],
+    [
+      "acceptances",
+      "contract",
+      "terms",
+      "contract"
+    ],
+    [
+      "acceptances",
+      "box",
+      "cargo",
+      "box"
+    ],
+    [
+      "acceptances",
+      "remedy",
+      "remedies",
+      "remedy"
+    ]
+  ]
+}
